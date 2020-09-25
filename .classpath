@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Tarea3"/>
-	<classpathentry kind="src" path="FibonaciVentana"/>
+	<classpathentry kind="src" path="Serie Fibonacci en Swing"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
